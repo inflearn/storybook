@@ -1,0 +1,24 @@
+{
+  "name": "storybook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tell-your-story": "start-storybook",
+    "show-your-story": "build-storybook -c .storybook -o .out"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@storybook/addon-actions": "^5.0.6",
+    "@storybook/addon-centered": "^5.0.6",
+    "@storybook/addon-notes": "^5.0.6",
+    "@storybook/addon-storysource": "^5.0.6",
+    "@storybook/html": "^5.0.6",
+    "@storybook/theming": "^5.0.6",
+    "babel-loader": "^8.0.5",
+    "node-sass": "^4.11.0",
+    "paths.macro": "^2.0.2",
+    "sass-loader": "^7.1.0"
+  },
+  "dependencies": {}
+}

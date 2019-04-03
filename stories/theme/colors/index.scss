@@ -1,0 +1,27 @@
+.palette {
+  display: flex;
+}
+
+.colors + .colors {
+  margin-left: 10px;
+}
+
+.colors {
+  width: 100px;
+  height: 100px;
+  color: white;
+  font-weight: 800;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  &.brand {
+    background: #2fc97a;
+  }
+
+  &.primary {
+    background: #ff7867;
+  }
+}
+
