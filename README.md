@@ -10,7 +10,8 @@ $ yarn  # Install dependencies
 ## 개발하기
 
 ```sh
-$ yarn tell-your-story # Run storybook
+$ yarn dev # Develop storybook
+$ yarn deploy # Deploy storybook
 ```
 
 ## How to
