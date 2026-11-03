@@ -18,7 +18,7 @@
     "@storybook/storybook-deployer": "^2.8.1",
     "@storybook/theming": "^5.0.6",
     "babel-loader": "^8.0.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "paths.macro": "^2.0.2",
     "sass-loader": "^7.1.0"
   },
